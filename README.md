@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **MERN**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **UOM**
 
 - 💬 Ask me about **Java**
 
